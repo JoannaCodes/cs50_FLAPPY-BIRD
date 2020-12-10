@@ -11,9 +11,9 @@
   
 <H5>
 URL: https://cs50.harvard.edu/games/2018/assignments/1/
-  
-Code Location:
-<p>PlayState.lua --> Line 52</p>
+
+<p>Code Location:</p>
+PlayState.lua --> Line 52
 <p>ScoreState.lua --> Line 36</p>
 
 Medal Sprites from https://kenney.nl/
