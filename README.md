@@ -1,6 +1,6 @@
 # cs50_FLAPPY-BIRD
 
-<H3> assignment0 </H3>
+<H3> assignment1 </H3>
   Remake of Flappy Bird from Harvard's CS50's Introduction to Game Development Online Course.
  
 <H3> Specifications </H3>
