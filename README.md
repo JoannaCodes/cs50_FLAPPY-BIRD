@@ -13,7 +13,7 @@
 <p>URL: https://cs50.harvard.edu/games/2018/assignments/1/</p>
 
 
-Code Location:
+Code Location: cs50_FLAPPY-BIRD
 <p>PlayState.lua --> Line 52</p>
 <p>ScoreState.lua --> Line 36</p>
 
