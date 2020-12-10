@@ -1,9 +1,9 @@
 # cs50_FLAPPY-BIRD
 
-#assignment0
+assignment0
   Remake of Flappy Bird from Harvard's CS50's Introduction to Game Development Online Course.
  
- #Specifications
+ Specifications
   1. Randomize the gap between pipes (vertical space), such that they’re no longer hardcoded to 90 pixels.
   2. Randomize the interval at which pairs of pipes spawn, such that they’re no longer always 2 seconds apart.
   3. When a player enters the ScoreState, award them a “medal” via an image displayed along with the score; this can be any image or any type of medal you choose (e.g., ribbons,        actual medals, trophies, etc.), so long as each is different and based on the points they scored that life. Choose 3 different ones, as well as the minimum score needed for        each one (though make it fair and not too hard to test :)).
