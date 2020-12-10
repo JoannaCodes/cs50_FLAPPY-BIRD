@@ -13,7 +13,7 @@
 <p>URL: https://cs50.harvard.edu/games/2018/assignments/1/</p>
 
 
-Code Location:
+Code Location:</b>
 PlayState.lua --> Line 52
 <p>ScoreState.lua --> Line 36</p>
 
